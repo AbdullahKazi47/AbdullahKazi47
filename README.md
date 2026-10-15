@@ -1,77 +1,73 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1200&pause=100000&color=4ADE80&background=0A0A0A&center=true&vCenter=true&repeat=false&width=860&height=110&lines=ABDULLAH+KAZI" alt="Abdullah Kazi"/>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14532d,25:4ade80,50:166534,75:86efac,100:14532d&height=14" width="860"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1200&pause=100000&color=BBF7D0&background=0A0A0A&center=true&vCenter=true&repeat=false&width=860&height=44&lines=DEVELOPER+%2F+APPS+-+WEB+-+AI" alt="Developer / Apps - Web - AI"/>
-</p>
-
-<!-- ===================== ABOUT ===================== -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1200&pause=100000&color=4ADE80&background=0F1A12&center=false&vCenter=true&repeat=false&width=860&height=50&lines=WHO+I+AM" alt="WHO I AM"/>
-
-> Hey, I'm Abdullah, a developer who loves building **Android apps, websites and AI-powered projects**. I enjoy turning ideas into working products.
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1200&pause=100000&color=4ADE80&background=0F1A12&center=false&vCenter=true&repeat=false&width=860&height=50&lines=WHAT+I+DO" alt="WHAT I DO"/>
-
-> I design and ship mobile and web apps end to end, from the interface to the backend, and I experiment with AI features that make them smarter.
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1200&pause=100000&color=4ADE80&background=0F1A12&center=false&vCenter=true&repeat=false&width=860&height=50&lines=LEARNING" alt="LEARNING"/>
-
-> Currently going deep on **AI / Machine Learning** and **full-stack development**, and always learning something new along the way.
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1200&pause=100000&color=4ADE80&background=0F1A12&center=false&vCenter=true&repeat=false&width=860&height=50&lines=OPEN+TO" alt="OPEN TO"/>
-
-> Collaborating on **open-source and side projects**. If you're building something interesting, let's talk.
-
-<!-- ===================== CONNECT ===================== -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1200&pause=100000&color=4ADE80&background=0F1A12&center=false&vCenter=true&repeat=false&width=860&height=50&lines=CONNECT" alt="CONNECT"/>
-
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="120"><b>LinkedIn</b></td>
-    <td align="center" width="120"><b>Instagram</b></td>
-    <td align="center" width="120"><b>Gmail</b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://linkedin.com/in/abdullah-kazi-158a022b9"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn"/></a></td>
-    <td align="center"><a href="https://instagram.com/abdullahkazi.07"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram"/></a></td>
-    <td align="center"><a href="mailto:abkazi4884@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Gmail"/></a></td>
-  </tr>
-</table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:4ade80,100:0a0a0a&height=3" width="100%" />
+
+  <br/><br/>
+
+  <h1>ABDULLAH KAZI</h1>
+  <h3>デ ベ ロ ッ パ ー &nbsp;·&nbsp; Developer</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=4ADE80&center=true&vCenter=true&width=520&lines=Building+Android+%26+Web+Apps;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+working+products" alt="Typing SVG" />
+
+  <p>
+    <a href="https://linkedin.com/in/abdullah-kazi-158a022b9">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4ADE80"/>
+    </a>
+    <a href="https://instagram.com/abdullahkazi.07">
+      <img src="https://img.shields.io/badge/Instagram-14532D?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:abkazi4884@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=4ADE80"/>
+    </a>
+  </p>
 </div>
 
-<!-- ===================== SKILLS ===================== -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1200&pause=100000&color=4ADE80&background=0F1A12&center=false&vCenter=true&repeat=false&width=860&height=50&lines=SKILL+SET" alt="SKILL SET"/>
+<br />
 
-<div align="center">
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="44"/><br/><sub><b>C</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44"/><br/><sub><b>C++</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="44"/><br/><sub><b>Java</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="44"/><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="44"/><br/><sub><b>JS</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="44"/><br/><sub><b>HTML</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="44"/><br/><sub><b>CSS</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="44"/><br/><sub><b>React</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44"/><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="44"/><br/><sub><b>MongoDB</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="44"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="44"/><br/><sub><b>Android</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="44"/><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44"/><br/><sub><b>GitHub</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44"/><br/><sub><b>VS Code</b></sub></td>
+    <td width="65%" valign="top">
+      <h2>🌿 About Me</h2>
+      <p>
+        I'm a <b>developer</b> who loves building <b>Android apps, websites and AI-powered projects</b>. I'm curious about how things work under the hood, from the logic of a single function to the architecture of a full-stack app.
+      </p>
+      <p>
+        I don't just write code; I turn ideas into working products.
+      </p>
+      <ul>
+        <li>🍃 <b>Building:</b> Android &amp; web apps with AI features</li>
+        <li>🌱 <b>Learning:</b> AI / Machine Learning &amp; full-stack development</li>
+        <li>🤝 <b>Open to:</b> Open-source and side-project collaborations</li>
+      </ul>
+    </td>
+    <td width="35%" valign="center" align="center">
+      <h1>
+        七 <br/> 転 <br/> 八 <br/> 起
+      </h1>
+      <p><i>(Nana korobi ya oki)</i><br/>"Fall seven times, stand up eight"</p>
+    </td>
   </tr>
 </table>
+
+<br />
+
+<h2>⚔️ The Armory</h2>
+
+<div align="center">
+
+| **Languages** | **Web & Mobile** | **Data & Tools** |
+| :---: | :---: | :---: |
+| ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=4ADE80) | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=4ADE80) | ![MongoDB](https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=4ADE80) | ![Node.js](https://img.shields.io/badge/Node.js-14532D?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4ADE80) |
+| ![Java](https://img.shields.io/badge/Java-14532D?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=4ADE80) | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4ADE80) |
+| ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4ADE80) | ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=4ADE80) | ![GitHub](https://img.shields.io/badge/GitHub-14532D?style=for-the-badge&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-4ADE80?style=for-the-badge&logo=javascript&logoColor=black) | ![Android Studio](https://img.shields.io/badge/Android_Studio-14532D?style=for-the-badge&logo=androidstudio&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=vscodium&logoColor=4ADE80) |
+
 </div>
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,30:14532d,60:4ade80,100:0a0a0a&height=10" width="860"/>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:4ade80,100:0a0a0a&height=2" width="100%" />
+  <br/>
+  <i>"Code. Learn. Build. Repeat."</i>
+</div>
