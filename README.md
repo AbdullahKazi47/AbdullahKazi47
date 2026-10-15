@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABDULLAH KAZI</h1>
 <h3 align="center">A passionate developer from interested Apps, Webs, AIs.</h3>
 
-- 🔭 I’m currently working on **Veronica**
-
 - 📫 How to reach me **abkazi4884@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
